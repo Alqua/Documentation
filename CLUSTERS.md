@@ -63,6 +63,7 @@ fi
 
 export PATH="/home/users/g/PSEUDO/.local/bin:$PATH"
 ```
+The "g" in the path refers to the first letters of your pseudo.
 
 **Do not forget to change the value of `PSEUDO`**
 
